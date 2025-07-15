@@ -27,4 +27,4 @@ Route::get('/jobs/{id}', function ($id) {
 });
 
 // https://www.youtube.com/watch?v=SqTdHCTWqks
-// 1:27:00
+// 1:44:10
