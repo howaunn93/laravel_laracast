@@ -5,6 +5,8 @@ use Illuminate\Support\Facades\Route;
 use App\Models\Job;
 
 Route::get('/', function () {
+    // $job = Job::all();
+    // dd($job[0]);
     return view('home');
 });
 
@@ -27,4 +29,4 @@ Route::get('/jobs/{id}', function ($id) {
 });
 
 // https://www.youtube.com/watch?v=SqTdHCTWqks
-// 1:44:10
+// 2:02:46
