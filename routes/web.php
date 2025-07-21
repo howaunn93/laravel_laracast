@@ -29,4 +29,6 @@ Route::get('/jobs/{id}', function ($id) {
 });
 
 // https://www.youtube.com/watch?v=SqTdHCTWqks
-// 2:02:46
+// 2:29:11
+
+// revise belongsTo & hasMany
